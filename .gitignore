@@ -1,0 +1,11 @@
+# use glob syntax.
+syntax: glob
+
+*.elc
+*.pyc
+*.bak
+*~
+.DS_Store
+
+# switch to regexp syntax.
+syntax: regexp

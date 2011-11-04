@@ -1,0 +1,41 @@
+{
+    "name": "weibo_v2",
+    "version": "0.1.0",
+    "description": "A NodeJS SDK for Sina Weibo API v2. ",
+    "keywords": [
+        "weibo",
+        "oauth2" 
+    ],
+    "maintainers": [
+        {
+            "name": "Weiming Yin @ vzhishu",
+            "email": "yinwm@vzhishu.com",
+            "web": "http://www.vzhishu.com" 
+        } 
+    ],
+    "contributors": [
+    ],
+    "bugs": {
+        "mail": "dev@vzhishu.com",
+        "web": "https://github.com/vzhishu/node-weibo-v2/issues" 
+    },
+    "licenses": [
+        {
+            "type": "Apache License 2.0",
+            "url": "http://www.apache.org/licenses/LICENSE-2.0" 
+        } 
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git://github.com/vzhishu/node-weibo-v2.git" 
+        } 
+    ],
+    "dependencies": {
+    },
+    "engines" : {
+        "node" : "*"
+    },
+    "scripts" : {
+    }
+}
