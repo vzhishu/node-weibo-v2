@@ -1,3 +1,4 @@
 Hello world.
+============
 
-A NodeJS SDK for Sina Weibo API v2.	
+A NodeJS port of Sina Weibo SDK for API V2.
